@@ -1,0 +1,9 @@
+numpy==1.18.4
+keras==2.3.1
+tensorflow==2.2.0
+opencv-python==4.2.0.34
+tqdm==4.46.0
+scikit-learn==0.23.1
+pandas==1.0.4
+kaggle==1.5.6
+matplotlib==3.2.1
